@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cf56cea9fd563040ae5c6227a027bde, type: 3}
+  m_Name: Cannon
+  m_EditorClassIdentifier: 
+  weaponModel: {fileID: 5549417375118411972, guid: c5662011afa4a124fa6918192d5473c7, type: 3}
+  weaponMaterials:
+  - {fileID: 2100000, guid: a57086179cdbd1749bf2c8b0df9b84ee, type: 2}
+  prices: 26020000ee020000e8030000
+  damage: 15
+  fireRate: 0.6
+  range: 3
+  upgradeStats:
+  - 2
+  - 20
